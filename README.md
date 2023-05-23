@@ -8,9 +8,9 @@ Stem pluripotent cells are capable of creating retinal-like structures called or
 
 In this project, the deep learning neural network was employed to implement this algorithm. An artificial neuron functions similarly to a real neuron: each neuron in the hidden layer has a value ranging from 0 to 1. Neurons receive input values from previous neurons, sum them, and multiply them by weights. To determine the optimal weights and minimize errors, the neural network needs to be trained on a large amount of input data.
 
-### Goals and Objectives:
+### Goal: 
 
-Goal: To create an optimized neural network that accurately predicts the quality of organoid differentiation in the early stages of development.
+To create an optimized neural network that accurately predicts the quality of organoid differentiation in the early stages of development.
 
 ### Objectives:
 
