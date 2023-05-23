@@ -21,6 +21,8 @@ Goal: To create an optimized neural network that accurately predicts the quality
 
 For image analysis, a specialized type of neural network called a convolutional neural network (CNN) was developed.
 
+Google drive with all materials: [Google drive](https://drive.google.com/drive/folders/19xwrY1aR7nIIn6clzFvdcje1uJMXtdfE?usp=sharing)
+
 More detailed information about the project can be found here: [Project document](https://github.com/Katya0208/Sirius_project/blob/main/full_description_of_the_project.pdf)
 
 Project presentation: [Presentation](https://github.com/Katya0208/Sirius_project/blob/main/Project_presentation.pdf)
